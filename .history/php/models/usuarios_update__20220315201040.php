@@ -1,5 +1,4 @@
 <?php
-    //bor git v2
     //automatic script by otro
     krequiredparams(array('idUsuario'));
     $idUsuario = $_REQUEST['idUsuario'];
