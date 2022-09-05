@@ -1,0 +1,10 @@
+[kwebcenter]
+c:\kweb\api\api.id=-48851276
+c:\kweb\api\index.php=917777274
+c:\kweb\api\php\comun.php=-1185397249
+c:\kweb\api\php\config.php=-1918966888
+c:\kweb\api\php\dbconnect.php=1323692261
+c:\kweb\api\php\dbhandler.php=74191361
+c:\kweb\api\php\jwt.php=-1682483015
+c:\kweb\api\php\v1.php=-1615402048
+c:\kweb\api\hola.php=243235794

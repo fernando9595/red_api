@@ -1,0 +1,16 @@
+[kwebcenter]
+c:\kweb\red_api\api.id=-48851276
+c:\kweb\red_api\hola.php=243235794
+c:\kweb\red_api\index.php=917777274
+c:\kweb\red_api\red_api.id=740354692
+c:\kweb\red_api\php\comun.php=1835113762
+c:\kweb\red_api\php\config.php=-78738872
+c:\kweb\red_api\php\dbconnect.php=1323692261
+c:\kweb\red_api\php\dbhandler.php=74191361
+c:\kweb\red_api\php\jwt.php=-1682483015
+c:\kweb\red_api\php\v1.php=-1259562112
+c:\kweb\red_api\.php=-7515743
+c:\kweb\red_api\php\generar_apis.php=23127890
+c:\kweb\red_api\phpserver.php=-477121829
+c:\kweb\red_api\_no por ahora .htaccess=-1511555840
+c:\kweb\red_api\_no_.php=-7515743

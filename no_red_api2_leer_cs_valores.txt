@@ -1,0 +1,95 @@
+DROP TABLE cs_valores;
+
+CREATE TABLE cs_valores (
+  idcoseguro_valores int(11) NOT NULL,
+  
+  v01 double NOT NULL DEFAULT 0,
+  v02 double NOT NULL DEFAULT 0,
+  v03 double NOT NULL DEFAULT 0,
+  v04 double NOT NULL DEFAULT 0,
+  v05 double NOT NULL DEFAULT 0,
+  v06 double NOT NULL DEFAULT 0,
+  v07 double NOT NULL DEFAULT 0,
+  v08 double NOT NULL DEFAULT 0,
+  v09 double NOT NULL DEFAULT 0,
+  v10 double NOT NULL DEFAULT 0,
+  v11 double NOT NULL DEFAULT 0,
+  v12 double NOT NULL DEFAULT 0,
+  v13 double NOT NULL DEFAULT 0,
+  v14 double NOT NULL DEFAULT 0,
+  v15 double NOT NULL DEFAULT 0,
+
+  v01_r double NOT NULL DEFAULT 0,
+  v02_r double NOT NULL DEFAULT 0,
+  v03_r double NOT NULL DEFAULT 0,
+  v04_r double NOT NULL DEFAULT 0,
+  v05_r double NOT NULL DEFAULT 0,
+  v06_r double NOT NULL DEFAULT 0,
+  v07_r double NOT NULL DEFAULT 0,
+  v08_r double NOT NULL DEFAULT 0,
+  v09_r double NOT NULL DEFAULT 0,
+  v10_r double NOT NULL DEFAULT 0,
+  v11_r double NOT NULL DEFAULT 0,
+  v12_r double NOT NULL DEFAULT 0,
+  v13_r double NOT NULL DEFAULT 0,
+  v14_r double NOT NULL DEFAULT 0,
+  v15_r double NOT NULL DEFAULT 0,
+
+  v01_m double NOT NULL DEFAULT 0,
+  v02_m double NOT NULL DEFAULT 0,
+  v03_m double NOT NULL DEFAULT 0,
+  v04_m double NOT NULL DEFAULT 0,
+  v05_m double NOT NULL DEFAULT 0,
+  v06_m double NOT NULL DEFAULT 0,
+  v07_m double NOT NULL DEFAULT 0,
+  v08_m double NOT NULL DEFAULT 0,
+  v09_m double NOT NULL DEFAULT 0,
+  v10_m double NOT NULL DEFAULT 0,
+  v11_m double NOT NULL DEFAULT 0,
+  v12_m double NOT NULL DEFAULT 0,
+  v13_m double NOT NULL DEFAULT 0,
+  v14_m double NOT NULL DEFAULT 0,
+  v15_m double NOT NULL DEFAULT 0,
+
+  v01_d12 double NOT NULL DEFAULT 0,
+  v02_d12 double NOT NULL DEFAULT 0,
+  v03_d12 double NOT NULL DEFAULT 0,
+  v04_d12 double NOT NULL DEFAULT 0,
+  v05_d12 double NOT NULL DEFAULT 0,
+  v06_d12 double NOT NULL DEFAULT 0,
+  v07_d12 double NOT NULL DEFAULT 0,
+  v08_d12 double NOT NULL DEFAULT 0,
+  v09_d12 double NOT NULL DEFAULT 0,
+  v10_d12 double NOT NULL DEFAULT 0,
+  v11_d12 double NOT NULL DEFAULT 0,
+  v12_d12 double NOT NULL DEFAULT 0,
+  v13_d12 double NOT NULL DEFAULT 0,
+  v14_d12 double NOT NULL DEFAULT 0,
+  v15_d12 double NOT NULL DEFAULT 0
+  
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+--
+-- Índices para tablas volcadas
+--
+
+--
+-- Indices de la tabla cs_valores
+--
+ALTER TABLE cs_valores
+  ADD PRIMARY KEY (idcs_valores);
+
+--
+-- AUTO_INCREMENT de las tablas volcadas
+--
+
+--
+-- AUTO_INCREMENT de la tabla cs_valores
+--
+ALTER TABLE cs_valores
+  MODIFY idcs_valores int(11) NOT NULL AUTO_INCREMENT;COMMIT;
+
+
+
+
